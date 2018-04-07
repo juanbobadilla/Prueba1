@@ -12,7 +12,7 @@ public class Aplicacion1 {
     
     public static void main(String[] args) {
         
-                
+         //importamos el escaner       
         Scanner leer = new Scanner(System.in);
         String nombre;
         int edad;
